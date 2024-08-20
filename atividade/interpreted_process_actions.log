@@ -1,0 +1,405 @@
+Relatório de Ações do Processo - ter 20 ago 2024 10:47:06 -03
+========================================
+[Outras Ações] --- stopped by SIGTTOU ---
+ - Descrição: Ação não categorizada ou desconhecida.
+----------------------------------------
+[Outras Ações] COMMAND     PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+ - Descrição: Ação não categorizada ou desconhecida.
+----------------------------------------
+[File/Network Activity] nano    1312932 carlos  cwd    DIR  259,2     4096 3538946 /home/carlos
+ - Descrição: Atividade de arquivo ou rede capturada pelo lsof.
+----------------------------------------
+[File/Network Activity] nano    1312932 carlos  rtd    DIR  259,2     4096       2 /
+ - Descrição: Atividade de arquivo ou rede capturada pelo lsof.
+----------------------------------------
+[File/Network Activity] nano    1312932 carlos  txt    REG  259,2   287480 8527533 /usr/bin/nano
+ - Descrição: Atividade de arquivo ou rede capturada pelo lsof.
+----------------------------------------
+[File/Network Activity] nano    1312932 carlos  mem    REG  259,2  3052768 8559537 /usr/lib/locale/locale-archive
+ - Descrição: Atividade de arquivo ou rede capturada pelo lsof.
+----------------------------------------
+[File/Network Activity] nano    1312932 carlos  mem    REG  259,2  1926256 8526048 /usr/lib/x86_64-linux-gnu/libc.so.6
+ - Descrição: Atividade de arquivo ou rede capturada pelo lsof.
+----------------------------------------
+[File/Network Activity] nano    1312932 carlos  mem    REG  259,2   204088 8544705 /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4
+ - Descrição: Atividade de arquivo ou rede capturada pelo lsof.
+----------------------------------------
+[File/Network Activity] nano    1312932 carlos  mem    REG  259,2   231344 8544074 /usr/lib/x86_64-linux-gnu/libncursesw.so.6.4
+ - Descrição: Atividade de arquivo ou rede capturada pelo lsof.
+----------------------------------------
+[File/Network Activity] nano    1312932 carlos  mem    REG  259,2   210792 8519703 /usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2
+ - Descrição: Atividade de arquivo ou rede capturada pelo lsof.
+----------------------------------------
+[Outras Ações] nano    1312932 carlos    0u   CHR  136,0      0t0       3 /dev/pts/0
+ - Descrição: Ação não categorizada ou desconhecida.
+----------------------------------------
+[Outras Ações] nano    1312932 carlos    1u   CHR  136,0      0t0       3 /dev/pts/0
+ - Descrição: Ação não categorizada ou desconhecida.
+----------------------------------------
+[Outras Ações] nano    1312932 carlos    2u   CHR  136,0      0t0       3 /dev/pts/0
+ - Descrição: Ação não categorizada ou desconhecida.
+----------------------------------------
+[Outras Ações] =======
+ - Descrição: Ação não categorizada ou desconhecida.
+----------------------------------------
+[Outras Ações] COMMAND     PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+ - Descrição: Ação não categorizada ou desconhecida.
+----------------------------------------
+[File/Network Activity] nano    1312932 carlos  cwd    DIR  259,2     4096 3538946 /home/carlos
+ - Descrição: Atividade de arquivo ou rede capturada pelo lsof.
+----------------------------------------
+[File/Network Activity] nano    1312932 carlos  rtd    DIR  259,2     4096       2 /
+ - Descrição: Atividade de arquivo ou rede capturada pelo lsof.
+----------------------------------------
+[File/Network Activity] nano    1312932 carlos  txt    REG  259,2   287480 8527533 /usr/bin/nano
+ - Descrição: Atividade de arquivo ou rede capturada pelo lsof.
+----------------------------------------
+[File/Network Activity] nano    1312932 carlos  mem    REG  259,2  3052768 8559537 /usr/lib/locale/locale-archive
+ - Descrição: Atividade de arquivo ou rede capturada pelo lsof.
+----------------------------------------
+[File/Network Activity] nano    1312932 carlos  mem    REG  259,2  1926256 8526048 /usr/lib/x86_64-linux-gnu/libc.so.6
+ - Descrição: Atividade de arquivo ou rede capturada pelo lsof.
+----------------------------------------
+[File/Network Activity] nano    1312932 carlos  mem    REG  259,2   204088 8544705 /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4
+ - Descrição: Atividade de arquivo ou rede capturada pelo lsof.
+----------------------------------------
+[File/Network Activity] nano    1312932 carlos  mem    REG  259,2   231344 8544074 /usr/lib/x86_64-linux-gnu/libncursesw.so.6.4
+ - Descrição: Atividade de arquivo ou rede capturada pelo lsof.
+----------------------------------------
+[File/Network Activity] nano    1312932 carlos  mem    REG  259,2   210792 8519703 /usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2
+ - Descrição: Atividade de arquivo ou rede capturada pelo lsof.
+----------------------------------------
+[Outras Ações] nano    1312932 carlos    0u   CHR  136,0      0t0       3 /dev/pts/0
+ - Descrição: Ação não categorizada ou desconhecida.
+----------------------------------------
+[Outras Ações] nano    1312932 carlos    1u   CHR  136,0      0t0       3 /dev/pts/0
+ - Descrição: Ação não categorizada ou desconhecida.
+----------------------------------------
+[Outras Ações] nano    1312932 carlos    2u   CHR  136,0      0t0       3 /dev/pts/0
+ - Descrição: Ação não categorizada ou desconhecida.
+----------------------------------------
+[Outras Ações] =======
+ - Descrição: Ação não categorizada ou desconhecida.
+----------------------------------------
+[Outras Ações] COMMAND     PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+ - Descrição: Ação não categorizada ou desconhecida.
+----------------------------------------
+[File/Network Activity] nano    1312932 carlos  cwd    DIR  259,2     4096 3538946 /home/carlos
+ - Descrição: Atividade de arquivo ou rede capturada pelo lsof.
+----------------------------------------
+[File/Network Activity] nano    1312932 carlos  rtd    DIR  259,2     4096       2 /
+ - Descrição: Atividade de arquivo ou rede capturada pelo lsof.
+----------------------------------------
+[File/Network Activity] nano    1312932 carlos  txt    REG  259,2   287480 8527533 /usr/bin/nano
+ - Descrição: Atividade de arquivo ou rede capturada pelo lsof.
+----------------------------------------
+[File/Network Activity] nano    1312932 carlos  mem    REG  259,2  3052768 8559537 /usr/lib/locale/locale-archive
+ - Descrição: Atividade de arquivo ou rede capturada pelo lsof.
+----------------------------------------
+[File/Network Activity] nano    1312932 carlos  mem    REG  259,2  1926256 8526048 /usr/lib/x86_64-linux-gnu/libc.so.6
+ - Descrição: Atividade de arquivo ou rede capturada pelo lsof.
+----------------------------------------
+[File/Network Activity] nano    1312932 carlos  mem    REG  259,2   204088 8544705 /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4
+ - Descrição: Atividade de arquivo ou rede capturada pelo lsof.
+----------------------------------------
+[File/Network Activity] nano    1312932 carlos  mem    REG  259,2   231344 8544074 /usr/lib/x86_64-linux-gnu/libncursesw.so.6.4
+ - Descrição: Atividade de arquivo ou rede capturada pelo lsof.
+----------------------------------------
+[File/Network Activity] nano    1312932 carlos  mem    REG  259,2   210792 8519703 /usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2
+ - Descrição: Atividade de arquivo ou rede capturada pelo lsof.
+----------------------------------------
+[Outras Ações] nano    1312932 carlos    0u   CHR  136,0      0t0       3 /dev/pts/0
+ - Descrição: Ação não categorizada ou desconhecida.
+----------------------------------------
+[Outras Ações] nano    1312932 carlos    1u   CHR  136,0      0t0       3 /dev/pts/0
+ - Descrição: Ação não categorizada ou desconhecida.
+----------------------------------------
+[Outras Ações] nano    1312932 carlos    2u   CHR  136,0      0t0       3 /dev/pts/0
+ - Descrição: Ação não categorizada ou desconhecida.
+----------------------------------------
+[Outras Ações] =======
+ - Descrição: Ação não categorizada ou desconhecida.
+----------------------------------------
+[Outras Ações] COMMAND     PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+ - Descrição: Ação não categorizada ou desconhecida.
+----------------------------------------
+[File/Network Activity] nano    1312932 carlos  cwd    DIR  259,2     4096 3538946 /home/carlos
+ - Descrição: Atividade de arquivo ou rede capturada pelo lsof.
+----------------------------------------
+[File/Network Activity] nano    1312932 carlos  rtd    DIR  259,2     4096       2 /
+ - Descrição: Atividade de arquivo ou rede capturada pelo lsof.
+----------------------------------------
+[File/Network Activity] nano    1312932 carlos  txt    REG  259,2   287480 8527533 /usr/bin/nano
+ - Descrição: Atividade de arquivo ou rede capturada pelo lsof.
+----------------------------------------
+[File/Network Activity] nano    1312932 carlos  mem    REG  259,2  3052768 8559537 /usr/lib/locale/locale-archive
+ - Descrição: Atividade de arquivo ou rede capturada pelo lsof.
+----------------------------------------
+[File/Network Activity] nano    1312932 carlos  mem    REG  259,2  1926256 8526048 /usr/lib/x86_64-linux-gnu/libc.so.6
+ - Descrição: Atividade de arquivo ou rede capturada pelo lsof.
+----------------------------------------
+[File/Network Activity] nano    1312932 carlos  mem    REG  259,2   204088 8544705 /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4
+ - Descrição: Atividade de arquivo ou rede capturada pelo lsof.
+----------------------------------------
+[File/Network Activity] nano    1312932 carlos  mem    REG  259,2   231344 8544074 /usr/lib/x86_64-linux-gnu/libncursesw.so.6.4
+ - Descrição: Atividade de arquivo ou rede capturada pelo lsof.
+----------------------------------------
+[File/Network Activity] nano    1312932 carlos  mem    REG  259,2   210792 8519703 /usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2
+ - Descrição: Atividade de arquivo ou rede capturada pelo lsof.
+----------------------------------------
+[Outras Ações] nano    1312932 carlos    0u   CHR  136,0      0t0       3 /dev/pts/0
+ - Descrição: Ação não categorizada ou desconhecida.
+----------------------------------------
+[Outras Ações] nano    1312932 carlos    1u   CHR  136,0      0t0       3 /dev/pts/0
+ - Descrição: Ação não categorizada ou desconhecida.
+----------------------------------------
+[Outras Ações] nano    1312932 carlos    2u   CHR  136,0      0t0       3 /dev/pts/0
+ - Descrição: Ação não categorizada ou desconhecida.
+----------------------------------------
+[Outras Ações] =======
+ - Descrição: Ação não categorizada ou desconhecida.
+----------------------------------------
+[Outras Ações] COMMAND     PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+ - Descrição: Ação não categorizada ou desconhecida.
+----------------------------------------
+[File/Network Activity] nano    1312932 carlos  cwd    DIR  259,2     4096 3538946 /home/carlos
+ - Descrição: Atividade de arquivo ou rede capturada pelo lsof.
+----------------------------------------
+[File/Network Activity] nano    1312932 carlos  rtd    DIR  259,2     4096       2 /
+ - Descrição: Atividade de arquivo ou rede capturada pelo lsof.
+----------------------------------------
+[File/Network Activity] nano    1312932 carlos  txt    REG  259,2   287480 8527533 /usr/bin/nano
+ - Descrição: Atividade de arquivo ou rede capturada pelo lsof.
+----------------------------------------
+[File/Network Activity] nano    1312932 carlos  mem    REG  259,2  3052768 8559537 /usr/lib/locale/locale-archive
+ - Descrição: Atividade de arquivo ou rede capturada pelo lsof.
+----------------------------------------
+[File/Network Activity] nano    1312932 carlos  mem    REG  259,2  1926256 8526048 /usr/lib/x86_64-linux-gnu/libc.so.6
+ - Descrição: Atividade de arquivo ou rede capturada pelo lsof.
+----------------------------------------
+[File/Network Activity] nano    1312932 carlos  mem    REG  259,2   204088 8544705 /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4
+ - Descrição: Atividade de arquivo ou rede capturada pelo lsof.
+----------------------------------------
+[File/Network Activity] nano    1312932 carlos  mem    REG  259,2   231344 8544074 /usr/lib/x86_64-linux-gnu/libncursesw.so.6.4
+ - Descrição: Atividade de arquivo ou rede capturada pelo lsof.
+----------------------------------------
+[File/Network Activity] nano    1312932 carlos  mem    REG  259,2   210792 8519703 /usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2
+ - Descrição: Atividade de arquivo ou rede capturada pelo lsof.
+----------------------------------------
+[Outras Ações] nano    1312932 carlos    0u   CHR  136,0      0t0       3 /dev/pts/0
+ - Descrição: Ação não categorizada ou desconhecida.
+----------------------------------------
+[Outras Ações] nano    1312932 carlos    1u   CHR  136,0      0t0       3 /dev/pts/0
+ - Descrição: Ação não categorizada ou desconhecida.
+----------------------------------------
+[Outras Ações] nano    1312932 carlos    2u   CHR  136,0      0t0       3 /dev/pts/0
+ - Descrição: Ação não categorizada ou desconhecida.
+----------------------------------------
+[Outras Ações] =======
+ - Descrição: Ação não categorizada ou desconhecida.
+----------------------------------------
+[Outras Ações] COMMAND     PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+ - Descrição: Ação não categorizada ou desconhecida.
+----------------------------------------
+[File/Network Activity] nano    1312932 carlos  cwd    DIR  259,2     4096 3538946 /home/carlos
+ - Descrição: Atividade de arquivo ou rede capturada pelo lsof.
+----------------------------------------
+[File/Network Activity] nano    1312932 carlos  rtd    DIR  259,2     4096       2 /
+ - Descrição: Atividade de arquivo ou rede capturada pelo lsof.
+----------------------------------------
+[File/Network Activity] nano    1312932 carlos  txt    REG  259,2   287480 8527533 /usr/bin/nano
+ - Descrição: Atividade de arquivo ou rede capturada pelo lsof.
+----------------------------------------
+[File/Network Activity] nano    1312932 carlos  mem    REG  259,2  3052768 8559537 /usr/lib/locale/locale-archive
+ - Descrição: Atividade de arquivo ou rede capturada pelo lsof.
+----------------------------------------
+[File/Network Activity] nano    1312932 carlos  mem    REG  259,2  1926256 8526048 /usr/lib/x86_64-linux-gnu/libc.so.6
+ - Descrição: Atividade de arquivo ou rede capturada pelo lsof.
+----------------------------------------
+[File/Network Activity] nano    1312932 carlos  mem    REG  259,2   204088 8544705 /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4
+ - Descrição: Atividade de arquivo ou rede capturada pelo lsof.
+----------------------------------------
+[File/Network Activity] nano    1312932 carlos  mem    REG  259,2   231344 8544074 /usr/lib/x86_64-linux-gnu/libncursesw.so.6.4
+ - Descrição: Atividade de arquivo ou rede capturada pelo lsof.
+----------------------------------------
+[File/Network Activity] nano    1312932 carlos  mem    REG  259,2   210792 8519703 /usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2
+ - Descrição: Atividade de arquivo ou rede capturada pelo lsof.
+----------------------------------------
+[Outras Ações] nano    1312932 carlos    0u   CHR  136,0      0t0       3 /dev/pts/0
+ - Descrição: Ação não categorizada ou desconhecida.
+----------------------------------------
+[Outras Ações] nano    1312932 carlos    1u   CHR  136,0      0t0       3 /dev/pts/0
+ - Descrição: Ação não categorizada ou desconhecida.
+----------------------------------------
+[Outras Ações] nano    1312932 carlos    2u   CHR  136,0      0t0       3 /dev/pts/0
+ - Descrição: Ação não categorizada ou desconhecida.
+----------------------------------------
+[Outras Ações] =======
+ - Descrição: Ação não categorizada ou desconhecida.
+----------------------------------------
+[Outras Ações] COMMAND     PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+ - Descrição: Ação não categorizada ou desconhecida.
+----------------------------------------
+[File/Network Activity] nano    1312932 carlos  cwd    DIR  259,2     4096 3538946 /home/carlos
+ - Descrição: Atividade de arquivo ou rede capturada pelo lsof.
+----------------------------------------
+[File/Network Activity] nano    1312932 carlos  rtd    DIR  259,2     4096       2 /
+ - Descrição: Atividade de arquivo ou rede capturada pelo lsof.
+----------------------------------------
+[File/Network Activity] nano    1312932 carlos  txt    REG  259,2   287480 8527533 /usr/bin/nano
+ - Descrição: Atividade de arquivo ou rede capturada pelo lsof.
+----------------------------------------
+[File/Network Activity] nano    1312932 carlos  mem    REG  259,2  3052768 8559537 /usr/lib/locale/locale-archive
+ - Descrição: Atividade de arquivo ou rede capturada pelo lsof.
+----------------------------------------
+[File/Network Activity] nano    1312932 carlos  mem    REG  259,2  1926256 8526048 /usr/lib/x86_64-linux-gnu/libc.so.6
+ - Descrição: Atividade de arquivo ou rede capturada pelo lsof.
+----------------------------------------
+[File/Network Activity] nano    1312932 carlos  mem    REG  259,2   204088 8544705 /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4
+ - Descrição: Atividade de arquivo ou rede capturada pelo lsof.
+----------------------------------------
+[File/Network Activity] nano    1312932 carlos  mem    REG  259,2   231344 8544074 /usr/lib/x86_64-linux-gnu/libncursesw.so.6.4
+ - Descrição: Atividade de arquivo ou rede capturada pelo lsof.
+----------------------------------------
+[File/Network Activity] nano    1312932 carlos  mem    REG  259,2   210792 8519703 /usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2
+ - Descrição: Atividade de arquivo ou rede capturada pelo lsof.
+----------------------------------------
+[Outras Ações] nano    1312932 carlos    0u   CHR  136,0      0t0       3 /dev/pts/0
+ - Descrição: Ação não categorizada ou desconhecida.
+----------------------------------------
+[Outras Ações] nano    1312932 carlos    1u   CHR  136,0      0t0       3 /dev/pts/0
+ - Descrição: Ação não categorizada ou desconhecida.
+----------------------------------------
+[Outras Ações] nano    1312932 carlos    2u   CHR  136,0      0t0       3 /dev/pts/0
+ - Descrição: Ação não categorizada ou desconhecida.
+----------------------------------------
+[Outras Ações] =======
+ - Descrição: Ação não categorizada ou desconhecida.
+----------------------------------------
+[Outras Ações] COMMAND     PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+ - Descrição: Ação não categorizada ou desconhecida.
+----------------------------------------
+[File/Network Activity] nano    1312932 carlos  cwd    DIR  259,2     4096 3538946 /home/carlos
+ - Descrição: Atividade de arquivo ou rede capturada pelo lsof.
+----------------------------------------
+[File/Network Activity] nano    1312932 carlos  rtd    DIR  259,2     4096       2 /
+ - Descrição: Atividade de arquivo ou rede capturada pelo lsof.
+----------------------------------------
+[File/Network Activity] nano    1312932 carlos  txt    REG  259,2   287480 8527533 /usr/bin/nano
+ - Descrição: Atividade de arquivo ou rede capturada pelo lsof.
+----------------------------------------
+[File/Network Activity] nano    1312932 carlos  mem    REG  259,2  3052768 8559537 /usr/lib/locale/locale-archive
+ - Descrição: Atividade de arquivo ou rede capturada pelo lsof.
+----------------------------------------
+[File/Network Activity] nano    1312932 carlos  mem    REG  259,2  1926256 8526048 /usr/lib/x86_64-linux-gnu/libc.so.6
+ - Descrição: Atividade de arquivo ou rede capturada pelo lsof.
+----------------------------------------
+[File/Network Activity] nano    1312932 carlos  mem    REG  259,2   204088 8544705 /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4
+ - Descrição: Atividade de arquivo ou rede capturada pelo lsof.
+----------------------------------------
+[File/Network Activity] nano    1312932 carlos  mem    REG  259,2   231344 8544074 /usr/lib/x86_64-linux-gnu/libncursesw.so.6.4
+ - Descrição: Atividade de arquivo ou rede capturada pelo lsof.
+----------------------------------------
+[File/Network Activity] nano    1312932 carlos  mem    REG  259,2   210792 8519703 /usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2
+ - Descrição: Atividade de arquivo ou rede capturada pelo lsof.
+----------------------------------------
+[Outras Ações] nano    1312932 carlos    0u   CHR  136,0      0t0       3 /dev/pts/0
+ - Descrição: Ação não categorizada ou desconhecida.
+----------------------------------------
+[Outras Ações] nano    1312932 carlos    1u   CHR  136,0      0t0       3 /dev/pts/0
+ - Descrição: Ação não categorizada ou desconhecida.
+----------------------------------------
+[Outras Ações] nano    1312932 carlos    2u   CHR  136,0      0t0       3 /dev/pts/0
+ - Descrição: Ação não categorizada ou desconhecida.
+----------------------------------------
+[Outras Ações] =======
+ - Descrição: Ação não categorizada ou desconhecida.
+----------------------------------------
+[Outras Ações] COMMAND     PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+ - Descrição: Ação não categorizada ou desconhecida.
+----------------------------------------
+[File/Network Activity] nano    1312932 carlos  cwd    DIR  259,2     4096 3538946 /home/carlos
+ - Descrição: Atividade de arquivo ou rede capturada pelo lsof.
+----------------------------------------
+[File/Network Activity] nano    1312932 carlos  rtd    DIR  259,2     4096       2 /
+ - Descrição: Atividade de arquivo ou rede capturada pelo lsof.
+----------------------------------------
+[File/Network Activity] nano    1312932 carlos  txt    REG  259,2   287480 8527533 /usr/bin/nano
+ - Descrição: Atividade de arquivo ou rede capturada pelo lsof.
+----------------------------------------
+[File/Network Activity] nano    1312932 carlos  mem    REG  259,2  3052768 8559537 /usr/lib/locale/locale-archive
+ - Descrição: Atividade de arquivo ou rede capturada pelo lsof.
+----------------------------------------
+[File/Network Activity] nano    1312932 carlos  mem    REG  259,2  1926256 8526048 /usr/lib/x86_64-linux-gnu/libc.so.6
+ - Descrição: Atividade de arquivo ou rede capturada pelo lsof.
+----------------------------------------
+[File/Network Activity] nano    1312932 carlos  mem    REG  259,2   204088 8544705 /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4
+ - Descrição: Atividade de arquivo ou rede capturada pelo lsof.
+----------------------------------------
+[File/Network Activity] nano    1312932 carlos  mem    REG  259,2   231344 8544074 /usr/lib/x86_64-linux-gnu/libncursesw.so.6.4
+ - Descrição: Atividade de arquivo ou rede capturada pelo lsof.
+----------------------------------------
+[File/Network Activity] nano    1312932 carlos  mem    REG  259,2   210792 8519703 /usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2
+ - Descrição: Atividade de arquivo ou rede capturada pelo lsof.
+----------------------------------------
+[Outras Ações] nano    1312932 carlos    0u   CHR  136,0      0t0       3 /dev/pts/0
+ - Descrição: Ação não categorizada ou desconhecida.
+----------------------------------------
+[Outras Ações] nano    1312932 carlos    1u   CHR  136,0      0t0       3 /dev/pts/0
+ - Descrição: Ação não categorizada ou desconhecida.
+----------------------------------------
+[Outras Ações] nano    1312932 carlos    2u   CHR  136,0      0t0       3 /dev/pts/0
+ - Descrição: Ação não categorizada ou desconhecida.
+----------------------------------------
+[Outras Ações] =======
+ - Descrição: Ação não categorizada ou desconhecida.
+----------------------------------------
+[Outras Ações] COMMAND     PID   USER   FD   TYPE DEVICE SIZE/OFF    NODE NAME
+ - Descrição: Ação não categorizada ou desconhecida.
+----------------------------------------
+[File/Network Activity] nano    1312932 carlos  cwd    DIR  259,2     4096 3538946 /home/carlos
+ - Descrição: Atividade de arquivo ou rede capturada pelo lsof.
+----------------------------------------
+[File/Network Activity] nano    1312932 carlos  rtd    DIR  259,2     4096       2 /
+ - Descrição: Atividade de arquivo ou rede capturada pelo lsof.
+----------------------------------------
+[File/Network Activity] nano    1312932 carlos  txt    REG  259,2   287480 8527533 /usr/bin/nano
+ - Descrição: Atividade de arquivo ou rede capturada pelo lsof.
+----------------------------------------
+[File/Network Activity] nano    1312932 carlos  mem    REG  259,2  3052768 8559537 /usr/lib/locale/locale-archive
+ - Descrição: Atividade de arquivo ou rede capturada pelo lsof.
+----------------------------------------
+[File/Network Activity] nano    1312932 carlos  mem    REG  259,2  1926256 8526048 /usr/lib/x86_64-linux-gnu/libc.so.6
+ - Descrição: Atividade de arquivo ou rede capturada pelo lsof.
+----------------------------------------
+[File/Network Activity] nano    1312932 carlos  mem    REG  259,2   204088 8544705 /usr/lib/x86_64-linux-gnu/libtinfo.so.6.4
+ - Descrição: Atividade de arquivo ou rede capturada pelo lsof.
+----------------------------------------
+[File/Network Activity] nano    1312932 carlos  mem    REG  259,2   231344 8544074 /usr/lib/x86_64-linux-gnu/libncursesw.so.6.4
+ - Descrição: Atividade de arquivo ou rede capturada pelo lsof.
+----------------------------------------
+[File/Network Activity] nano    1312932 carlos  mem    REG  259,2   210792 8519703 /usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2
+ - Descrição: Atividade de arquivo ou rede capturada pelo lsof.
+----------------------------------------
+[Outras Ações] nano    1312932 carlos    0u   CHR  136,0      0t0       3 /dev/pts/0
+ - Descrição: Ação não categorizada ou desconhecida.
+----------------------------------------
+[Outras Ações] nano    1312932 carlos    1u   CHR  136,0      0t0       3 /dev/pts/0
+ - Descrição: Ação não categorizada ou desconhecida.
+----------------------------------------
+[Outras Ações] nano    1312932 carlos    2u   CHR  136,0      0t0       3 /dev/pts/0
+ - Descrição: Ação não categorizada ou desconhecida.
+----------------------------------------
+[Outras Ações] =======
+ - Descrição: Ação não categorizada ou desconhecida.
+----------------------------------------
+====================================================
+Resumo da Interpretação:
+ - Total de ações processadas: 131
+ - Chamadas de sistema relacionadas a I/O de arquivos: 0
+ - Chamadas de sistema relacionadas a operações de rede: 0
+ - Chamadas de sistema relacionadas ao gerenciamento de processos: 0
+ - Chamadas de sistema relacionadas ao gerenciamento de memória: 0
+ - Outras atividades capturadas (arquivo/rede): 80
+ - Outras ações não categorizadas: 51
+====================================================
